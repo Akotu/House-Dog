@@ -18,6 +18,12 @@
   },
   "homepage": "https://github.com/Akotu/House-Dog#readme",
   "dependencies": {
-    "discord.js": "^11.4.2"
+    "discord.js": "^11.4.2",
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "relevant-urban": "^2.0.0",
+    "moji-translate": "^1.0.8",
+    "ytdl-core": "^0.29.0",
+    "opusscript": "^0.0.6"
   }
 }
